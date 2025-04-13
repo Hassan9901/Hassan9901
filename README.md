@@ -1,5 +1,7 @@
 👋 Hi, I'm Hassan — a passionate Software Engineer with a background in Mechanical Engineering and a deep interest in building smart, scalable, and efficient solutions.
+
 💻 I enjoy working across the stack, but I have a growing focus on AI/ML and Python development. I bring a problem-solving mindset, solid foundations in programming (Java, Python), and a constant drive to learn and improve.
+
 🚀 Currently, I'm expanding my skills through hands-on projects, contributing to open-source, and exploring ways to blend engineering principles with cutting-edge technology.
 
 🛠️ Tech I work with:
