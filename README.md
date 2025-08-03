@@ -7,7 +7,7 @@
 
 ## ✨ About Me
 
-I am a passionate software developer with a strong interest in modern technologies and research. I enjoy building real-world solutions, learning new frameworks, and collaborating with developers around the globe. My core strengths are in Python, JavaScript, and full-stack web development. I am an advocate for open source, lifelong learning, and using technology to solve impactful problems.
+a passionate software developer with a strong interest in modern technologies and research. I enjoy building real-world solutions, learning new frameworks, and collaborating with developers around the globe. My core strengths are in Python, JavaScript, and full-stack web development. I am an advocate for open source, lifelong learning, and using technology to solve impactful problems.
 
 
 ## 💻 Tech Stack
@@ -21,20 +21,6 @@ I am a passionate software developer with a strong interest in modern technologi
   <!-- Add more as needed -->
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hassan9901&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-## 🤝 Open Source Contributions
-
-- 🌍 I regularly contribute to open source. Here are some of my recent contributions:
-  - [Your recent PR or repo #1](https://github.com/your-contribution-link)
-  - [Your recent PR or repo #2](https://github.com/your-contribution-link)
-  - [Your recent PR or repo #3](https://github.com/your-contribution-link)
-- I am always open to collaboration! Feel free to reach out if you have an interesting project.
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,10 +31,41 @@ I am a passionate software developer with a strong interest in modern technologi
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan9901&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassan9901&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hassan9901&theme=algolia" alt="Hassan9901" />
+</p>
+
+## 🤝 Open Source Contributions
+
+<p align="center">
+  <a href="https://github.com/your-contribution-link">
+    <img src="https://img.shields.io/badge/PR-Open%20Source-green?style=for-the-badge&logo=github" alt="Open Source PR #1"/>
+  </a>
+  <a href="https://github.com/your-contribution-link">
+    <img src="https://img.shields.io/badge/PR-Open%20Source-blue?style=for-the-badge&logo=github" alt="Open Source PR #2"/>
+  </a>
+  <a href="https://github.com/your-contribution-link">
+    <img src="https://img.shields.io/badge/PR-Open%20Source-orange?style=for-the-badge&logo=github" alt="Open Source PR #3"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Let's Collaborate!-purple?style=for-the-badge&logo=github" alt="Let's Collaborate"/>
+</p>
+
+<p align="center">
+  🌍 I regularly contribute to open source and love collaborating on exciting projects. If you have an interesting idea or need a collaborator, feel free to reach out!
 </p>
 
 <!-- Add more sections as needed, such as Projects, Certifications, Publications, etc. -->
