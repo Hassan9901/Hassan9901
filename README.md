@@ -1,17 +1,35 @@
-👋 Hi, I'm Hassan — a passionate Software Engineer with a background in Mechanical Engineering and a deep interest in building smart, scalable, and efficient solutions.
+<!-- Profile README Example -->
 
-💻 I enjoy working across the stack, but I have a growing focus on AI/ML and Python development. I bring a problem-solving mindset, solid foundations in programming (Java, Python), and a constant drive to learn and improve.
+<h1 align="center">Hi 👋, I'm Hassan</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hassan9901&label=Profile%20views&color=0e75b6&style=flat" alt="Hassan9901" />
+</p>
 
-🚀 Currently, I'm expanding my skills through hands-on projects, contributing to open-source, and exploring ways to blend engineering principles with cutting-edge technology.
+## 💻 Tech Stack
 
-🛠️ Tech I work with:
-Python • Java • JavaScript • HTML/CSS • Git • VS Code • Jupyter • Linux
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <!-- Add more as needed -->
+</p>
 
-📚 Always learning something new — whether it's building APIs, training ML models, or exploring new frameworks.
+## 📊 GitHub Stats
 
-📫 Let's connect! Feel free to check out my repos or reach out for collaboration.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassan9901&show_icons=true&locale=en" alt="Hassan9901" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassan9901" alt="Hassan9901" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan9901&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<!---
-Hassan9901/Hassan9901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hassan9901&theme=algolia" alt="Hassan9901" />
+</p>
+
+<!-- You can add more sections like About Me, Projects, etc. -->
